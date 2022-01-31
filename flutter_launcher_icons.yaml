@@ -1,0 +1,4 @@
+flutter_icons:
+  android: "launcher_icon"
+  image_path: "images/app/vipco_logo_v4.png"
+  ios: true
